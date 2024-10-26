@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ea7a009-fe8f-417e-9f81-70f1aa6a2546" name="Changes" comment="client_alter by process">
+    <list default="true" id="0ea7a009-fe8f-417e-9f81-70f1aa6a2546" name="Changes" comment="workspace is commited">
+      <change afterPath="$PROJECT_DIR$/project_manager" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729980244864</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="workspace is commited">
+      <option name="closed" value="true" />
+      <created>1729983272947</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729983272947</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +110,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit for Django Project" />
     <MESSAGE value="client_alter by process" />
-    <option name="LAST_COMMIT_MESSAGE" value="client_alter by process" />
+    <MESSAGE value="workspace is commited" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace is commited" />
   </component>
 </project>
